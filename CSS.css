@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+#clickMe{
+	height:100px;
+	width:300px;
+	background-color:#0F3;
+	position:absolute;
+	border-radius:30px;
+	left:38%;
+	top:40%;
+	
+	}
+
+#text{
+	text-align:center;
+	font-family:"Comic Sans MS", cursive;
+	
+	
+	}
